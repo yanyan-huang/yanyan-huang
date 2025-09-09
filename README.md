@@ -46,7 +46,7 @@ I’m a **strong problem solver**, a **collaborative teammate**, and I take **en
 ---
 
 ## ✨ Fun Facts
-- 🌍 Trilingual in **English, Mandarin, and French**.  
-- 🤝 Love **collaboration** and supporting the team.  
-- 🔑 Take **strong ownership** of projects from idea → delivery, with a focus on impact.  
+- 🌍 Trilingual in **English, Mandarin, and French**, bringing a global mindset to problem-solving.  
+- 🤝 Thrive on **collaboration & teamwork** — known for being reliable, supportive, and proactive.  
+- 🔑 Take **strong ownership** of projects from idea → delivery, with a focus on impact. 
 - 💡 Passionate about **scalable backend development, cloud computing and AI application**.
