@@ -7,12 +7,6 @@
 
 ---
 
-## 🌟 About Me
-I love using technology to **build impactful solutions that improve people's lives**.  
-I’m a **strong problem solver**, a **collaborative teammate**, and I take **end-to-end ownership** from idea → delivery.
-
----
-
 ## 🔧 Technical Skills
 - **Languages:** Python (3+ years), Java (2+ years with AWS production experience), SQL, JavaScript, HTML/CSS, C#  
 - **Backend & Frameworks:** Node.js, Express, Spring Boot, Flask, RESTful APIs, Microservices, React, MVC, SDK  
