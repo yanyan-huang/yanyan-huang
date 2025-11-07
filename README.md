@@ -19,7 +19,7 @@
 ## 💼 Experience
 **Amazon Web Services (AWS) — Software Engineer Intern** · Seattle, WA  
 - Built a **multi-region automation framework & CLI in Java** shipped to production (28 regions).  
-- Cut operational overhead and reduced on-call work by ** 5+ h/week** 
+- Cut operational overhead and reduced on-call work by **5+ h/week** 
 - Implemented **2 CI/CD pipelines**, authored **30+ PRs**, and created runbooks.
 
 ---
