@@ -32,15 +32,14 @@
 
 ---
 
-## 📊 GitHub Stats
-![Streak](https://streak-stats.demolab.com/?user=yanyan-huang)
-![Stats](https://github-readme-stats.vercel.app/api?username=yanyan-huang&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanyan-huang&layout=compact)
-
----
-
 ## ✨ Fun Facts
 - 🌍 Trilingual in **English, Mandarin, and French**, bringing a global mindset to problem-solving.  
 - 🤝 Thrive on **collaboration & teamwork** — known for being reliable, supportive, and proactive.  
 - 🔑 Take **strong ownership** of projects from idea → delivery, with a focus on impact. 
 - 💡 Passionate about **scalable backend development, cloud computing and AI application**.
+---
+
+## 📊 GitHub Stats
+![Streak](https://streak-stats.demolab.com/?user=yanyan-huang)
+![Stats](https://github-readme-stats.vercel.app/api?username=yanyan-huang&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanyan-huang&layout=compact)
